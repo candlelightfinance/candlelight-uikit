@@ -7,17 +7,17 @@ interface LogoProps extends SvgProps {
 }
 
 const Logo: React.FC<LogoProps> = ({ isDark, ...props }) => {
-  const textColor = isDark ? "#E8A172" : "#BE5230";
+  const textColor = isDark ? "#CEB14E" : "#CEB14E";
   return (
     <h1
       style={{
-        fontFamily: "futura",
+        fontFamily: "montserrat",
         textTransform: "uppercase",
         fontSize: "20pt",
-        color: "#E8A172",
+        color: "#CEB14E",
       }}
     >
-      CandlelightFinance
+      Candlelight Finance
     </h1>
   );
 };
