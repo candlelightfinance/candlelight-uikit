@@ -4,8 +4,8 @@ export const baseColors = {
   failure: "#ED4B9E",
   primary: "#CEB14E",
   primaryBright: "#CEB14E",
-  primaryDark: "#FDD960",
-  secondary: "#F4E9B7",
+  primaryDark: "#CEB14E",
+  secondary: "#CEB14E",
   success: "#31D0AA",
   warning: "#FFB237",
 };
@@ -25,7 +25,7 @@ export const lightColors: Colors = {
   tertiary: "#EFF4F5",
   text: "#CEB14E",
   textDisabled: "#BDC2C4",
-  textSubtle: "#C4BC93",
+  textSubtle: "#CEB14E",
   borderColor: "#E9EAEB",
   card: "#FFFFFF",
   gradients: {
@@ -44,9 +44,9 @@ export const darkColors: Colors = {
   input: "#483f5a",
   primaryDark: "#EFCD5A",
   tertiary: "#353547",
-  text: "#F4E9B7",
+  text: "#CEB14E",
   textDisabled: "#666171",
-  textSubtle: "#F9F2D5",
+  textSubtle: "#CEB14E",
   borderColor: "#524B63",
   card: "#27262c",
   gradients: {
