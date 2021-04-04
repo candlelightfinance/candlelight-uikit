@@ -162,10 +162,6 @@ export const socials = [
       //   label: "Français",
       //   href: "https://t.me/pancakeswapfr",
       // },
-      {
-        label: "Announcements",
-        href: "https://t.me/CandlelightFinance_ANN",
-      },
       // {
       //   label: "Whale Alert",
       //   href: "https://t.me/PancakeSwapWhales",
@@ -175,7 +171,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/CandlelightFinance",
+    href: "https://twitter.com/Candlelightfin1",
   },
 ];
 
