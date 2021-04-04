@@ -2184,7 +2184,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/CandlelightFinance",
+        href: "https://twitter.com/Candlelightfin1",
     },
 ];
 var MENU_HEIGHT = 64;
